@@ -27,3 +27,5 @@ Aprender a utilizar las etiquetas de HTML y las propiedades de CSS ; así como i
 
 ## 🔗¡Link al Demo!
 Aquí puedes visualizar mi proyecto terminado [Clonación de Google](https://karengarciar.github.io/Google-Clone/)
+
+<img width="958" alt="Clone Google" src="https://user-images.githubusercontent.com/132194554/235394797-b68bdb0c-dae8-4393-b8ab-a045794f765d.png">
