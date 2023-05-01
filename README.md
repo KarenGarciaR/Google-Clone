@@ -2,10 +2,10 @@
 ###### 🙌Clon de Google usando HTML y CSS en bootcamp de TecnolochicasPro | Google Clone using HTML and CSS🙌
 
 ## INDICE
-* [Intro]()
-* [Qué construí?]()
-* [Objetivo del proyecto]()
-* [¡Link al Demo!]()
+* [Intro](https://github.com/KarenGarciaR/Google-Clone/blob/main/README.md#intro)
+* [Qué construí?](https://github.com/KarenGarciaR/Google-Clone/blob/main/README.md#qu%C3%A9-contru%C3%AD)
+* [Objetivo del proyecto](https://github.com/KarenGarciaR/Google-Clone/blob/main/README.md#objetivo-del-proyecto)
+* [¡Link al Demo!](https://github.com/KarenGarciaR/Google-Clone/blob/main/README.md#link-al-demo)
 
 ***
 
